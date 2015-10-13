@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="videogamecollection.xsl"?>
+<video_game_collection> 
+	<video_game>
+		<id>1</id> 
+		<name>The Last of Us</name>
+		<release>2013</release>
+		<systems> 
+			<system>PS3</system>
+		</systems> 
+		<maturity_rating>Mature</maturity_rating>
+		<game_rating>
+			<IGN> </IGN>
+			<Game_FAQs> </Game_FAQs>
+		</game_rating>
+		<genre> 
+			<genre_type>Action</genre_type>
+			<genre_type>Survival</genre_type>
+			<genre_type>Horror</genre_type> 
+		</genre> 
+		<players>
+			<number_of_players>Single</number_of_players>
+			<number_of_players>Multiplayer</number_of_players>
+		</players>
+		<related_games>               </related_games>
+		<awards> 
+		</awards>
+		<mods>
+			<mod_type>none </mod_type>
+		</mods>
+	</video_game>
+	<video_game>
+		<id> 2 </id> 
+		<name>The Elder Scrolls V:Skyrim</name>
+		<release>2013</release>
+		<systems>
+			<system>PC</system>
+		</systems>
+		<maturity_rating>Mature</maturity_rating>
+		<game_rating>
+			<IGN> </IGN>
+			<Game_FAQs> </Game_FAQs>
+		</game_rating>
+		<genre> 
+			<genre_type>Action</genre_type>
+			<genre_type>Open World</genre_type>
+			<genre_type>Role-Playing</genre_type> 
+		</genre>
+		<players>
+			<number_of_players>Single</number_of_players>
+		</players>
+		<related_games>               </related_games>
+		<awards> 
+		</awards>
+		<mods>
+			<mod_type> </mod_type>
+			<mod_type> </mod_type>
+		</mods>
+	</video_game>
+	<video_game>
+	<id>3</id> 
+		<name>The Walking Dead</name>
+		<release>2012</release>
+		<systems> 
+			<system>PC</system>
+		</systems> 
+		<maturity_rating>Mature</maturity_rating>
+		<game_rating>
+			<IGN> </IGN>
+			<Game_FAQs> </Game_FAQs>
+		</game_rating>
+		<genre> 
+			<genre_type>Episodic</genre_type>
+			<genre_type>Interactive</genre_type>
+			<genre_type>Drama</genre_type> 
+			<genre_type>Adventure</genre_type>
+		</genre> 
+		<players>
+			<number_of_players>Single</number_of_players>
+		</players>
+		<related_games>               </related_games>
+		<awards> 
+		</awards>
+		<mods>
+			<mod_type> none </mod_type>
+		</mods>
+	</video_game>
+	<video_game>
+	<id>4</id> 
+		<name>Dying Light</name>
+		<release>2015</release>
+		<systems> 
+			<system>PC</system>
+		</systems> 
+		<maturity_rating>Mature</maturity_rating>
+		<game_rating>
+			<IGN> </IGN>
+			<Game_FAQs> </Game_FAQs>
+		</game_rating>
+		<genre> 
+			<genre_type>Open World</genre_type>
+			<genre_type>Survival</genre_type>
+			<genre_type>Horror</genre_type> 
+			<genre_type>Adventure</genre_type>
+			<genre_type>Action</genre_type>
+		</genre> 
+		<players>
+			<number_of_players>Single</number_of_players>
+			<number_of_players>Multiplayer</number_of_players>
+		</players>
+		<related_games>               </related_games>
+		<awards> 
+		</awards>
+		<mods>
+			<mod_type> none </mod_type>
+		</mods>
+	</video_game>
+	<video_game>
+		<id>5</id> 
+		<name>Final Fantasy X</name>
+		<release>2001</release>
+		<systems> 
+			<system>PS2</system>
+		</systems> 
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<IGN> </IGN>
+			<Game_FAQs> </Game_FAQs>
+		</game_rating>
+		<genre> 
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Adventure</genre_type>
+			<genre_type>Action</genre_type>
+			<genre_type>Turn-based</genre_type>
+		</genre> 
+		<players>
+			<number_of_players>Single</number_of_players>
+			<number_of_players>Multiplayer</number_of_players>
+		</players>
+		<related_games>               </related_games>
+		<awards> 
+		</awards>
+		<mods>
+			<mod_type> none </mod_type>
+		</mods>
+	</video_game>
+</video_game_collection>
+			
+		
+		
+		
+		
