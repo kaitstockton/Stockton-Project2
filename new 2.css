@@ -1,0 +1,19 @@
+h1{
+	color:#FF0066;
+	font-family:sans-serif;
+	padding-top: 20px;
+}
+th{
+	color:white;
+	background-color: #FF0066;
+	text-align: left;
+	font-family:sans-serif;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+tr:nth-child(even) {background: white}
+tr:nth-child(odd) {background:#FFC2E0;
+				   color:black; 
+				   font-family:sans-serif;
+}

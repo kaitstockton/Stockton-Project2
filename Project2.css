@@ -1,0 +1,17 @@
+h1 {
+	color:#00CCFF;
+	
+	}
+td {background-color:#00CCFF;
+	text-align: left;
+	}
+body {background-color:#00CCFF;
+	
+}
+
+tr {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
