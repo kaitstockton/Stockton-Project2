@@ -10,8 +10,11 @@
 		</systems> 
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<IGN> </IGN>
-			<Game_FAQs> </Game_FAQs>
+			<rater>IGN <rating>10/10</rating></rater>
+			<rater>Game FAQs</rater>
+				<rating>4.49/5</rating>
+			<rater>Metacritic</rater>
+				<rating>95/100</rating>
 		</game_rating>
 		<genre> 
 			<genre_type>Action</genre_type>
@@ -23,16 +26,20 @@
 		Joel, a brutal survivor, and Ellie, a brave young teenage girl who is wise beyond her years, must work together if they hope to survive their journey across the US.
 		</synopsis>
 		<players>
-			<number_of_players>Single</number_of_players>
+			<number_of_players>Single Player</number_of_players>
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
-			<related_game></related_game>
+			<related_game>ZombiU</related_game>
+			<related_game>Dead Rising</related_game>
+			<related_game>Lone Survivor</related_game>
+			<related_game>State of Decay</related_game>
+			<related_game>The Walking Dead</related_game>
 		</related_games>
 		<awards> 
 		</awards>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Naughty Dog</developer>
 		<publisher>Sony</publisher>
@@ -62,7 +69,7 @@
 		Battle ancient dragons like you’ve never seen. As Dragonborn, learn their secrets and harness their power for yourself.
 		</synopsis>
 		<players>
-			<number_of_players>Single</number_of_players>
+			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>               </related_games>
 		<awards> 
@@ -93,9 +100,10 @@
 			<genre_type>Adventure</genre_type>
 		</genre> 
 		<synopsis>
+		The Walking Dead is a five-part game series set in the same universe as Robert Kirkman’s award-winning comic book series. Play as Lee Everett, a convicted criminal, who has been given a second chance at life in a world devastated by the undead. With corpses returning to life and survivors stopping at nothing to maintain their own safety, protecting an orphaned girl named Clementine may offer him redemption in a world gone to hell.
 		</synopsis>
 		<players>
-			<number_of_players>Single</number_of_players>
+			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>               </related_games>
 		<awards> 
@@ -126,9 +134,10 @@
 			<genre_type>Action</genre_type>
 		</genre> 
 		<synopsis>
+		Dying Light is an action survival game presented in first-person perspective. The game is set in a vast and dangerous open world. During the day, you roam an urban environment devastated by a mysterious epidemic, scavenging for supplies and crafting weapons to help you defeat the hordes of mindless, flesh-hungry enemies the plague has created. At night, the hunter becomes the prey as the infected grow in strength and aggression - but even more lethal are the nocturnal, inhuman predators that leave their hives to feed. You will need to make use of all your skills and any available means to survive till dawn.
 		</synopsis>
 		<players>
-			<number_of_players>Single</number_of_players>
+			<number_of_players>Single Player</number_of_players>
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>               </related_games>
@@ -159,10 +168,10 @@
 			<genre_type>Turn-based</genre_type>
 		</genre> 
 		<synopsis>
+		Set in the fantasy world of Spira, the game's story revolves around a group of adventurers and their quest to defeat a rampaging monster known as Sin. The player character is Tidus, a blitzball star who finds himself in Spira after his home city of Zanarkand is destroyed by Sin. Shortly after arriving to Spira, Tidus joins the summoner Yuna on her pilgrimage to destroy Sin.
 		</synopsis>
 		<players>
-			<number_of_players>Single</number_of_players>
-			<number_of_players>Multiplayer</number_of_players>
+			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>               </related_games>
 		<awards> 
@@ -183,7 +192,7 @@
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
 			<rater>IGN</rater>	
-				<rating> </rating>
+				<rating>8.5</rating>
 			<rater> </rater>
 		</game_rating>
 		<genre>
@@ -194,6 +203,8 @@
 			<genre_type>Open World</genre_type>
 		</genre>
 		<synopsis>
+		You play as Aiden Pearce, a brilliant hacker and former thug, whose criminal past led to a violent family tragedy. Now on the hunt for those who hurt your family, you'll be able to monitor and hack all who surround you by manipulating everything connected to the city’s network. Access omnipresent security cameras, download personal information to locate a target, control traffic lights and public transportation to stop the enemy…and more. 
+		Use the city of Chicago as your ultimate weapon and exact your own style of revenge.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
@@ -229,6 +240,7 @@
 			<genre_type>Open World</genre_type>
 		</genre>
 		<synopsis>
+		The creative and building aspects of Minecraft enable players to build constructions out of textured cubes in a 3D procedurally generated world. Other activities in the game include exploration, resource gathering, crafting, and combat. Multiple gameplay modes are available, including survival modes where the player must acquire resources to build the world and maintain health, a creative mode where players have unlimited resources to build with and the ability to fly, and an adventure mode where players play custom maps created by other players.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
@@ -263,6 +275,7 @@
 			<genre_type>Strategy</genre_type>
 		</genre>
 		<synopsis>
+		Become Ruler of the World by establishing and leading a civilization from the dawn of man into the space age: Wage war, conduct diplomacy, discover new technologies, go head-to-head with some of history’s greatest leaders and build the most powerful empire the world has ever known. 
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
@@ -293,10 +306,13 @@
 		</game_rating>
 		<genre>
 			<genre_type>City-building</genre_type>
-			<genre_type>Economic Simulation</genre_type>
+			<genre_type>Simulation</genre_type>
 			<genre_type>Real-time Strategy</genre_type>
 		</genre>
 		<synopsis>
+		2070. Our world has changed. The rising level of the ocean has harmed the coastal cities and climate change has made large stretches of land inhospitable. 
+		The latest in the award-winning strategy series, Anno 2070 offers a new world full of challenges, where you will need to master resources, diplomacy, and trade in the most comprehensive economic management system in the Anno series. 
+		Build your society of the future, colonize islands, and create sprawling megacities with multitudes of buildings, vehicles, and resources to manage. Engineer production chains such as Robot Factories, Oil Refineries, and Diamond Mines, and trade with a variety of goods and commodities. 
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
@@ -331,6 +347,7 @@
 			<genre_type>Horror</genre_type>
 		</genre>
 		<synopsis>
+		Set in the zombie apocalypse,this co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns. 
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
@@ -366,6 +383,9 @@
 			<genre_type>Turn-based</genre_type>
 		</genre>
 		<synopsis>
+		From the perilous battlefields of the fourth-grade playground, a young hero will rise, destined to be South Park’s savior. From the creators of South Park, Trey Parker and Matt Stone, comes an epic quest to become… cool. Introducing South Park: The Stick of Truth. 
+		For a thousand years, the battle has been waged. The sole reason humans and elves are locked in a neverending war: The Stick of Truth. But the tides of war are soon to change as word of a new kid spreads throughout the land, his coming fortold by the stars. As the moving vans of prophecy drive away, your adventure begins. 
+		Arm yourself with weapons of legend to defeat underpants gnomes, hippies and other forces of evil. Discover the lost Stick of Truth and earn your place at the side of Stan, Kyle, Cartman and Kenny as their new friend. Succeed, and you shall be South Park’s savior, cementing your social status in South Park Elementary. Fail, and you will forever be known… as a loser.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
@@ -399,6 +419,7 @@
 			<genre_type>Simulation</genre_type>
 		</genre>
 		<synopsis>
+		Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. 
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
@@ -434,6 +455,7 @@
 			<genre_type>Interactice</genre_type>
 		</genre>
 		<synopsis>
+		 As Bigby Wolf - THE big bad wolf - you will discover that a brutal, bloody murder is just a taste of things to come in a game series where your every decision can have enormous consequences. Its ground-breaking choice and consequence game mechanics will ensure the player learns that even as Bigby Wolf, Sheriff of Fabletown, life in the big bad city is bloody, terrifying, and dangerous. 
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
@@ -465,6 +487,8 @@
 			<genre_type>Fighting</genre_type>
 		</genre>
 		<synopsis>
+		Two years after the events of the King of Iron Fist Tournament, the Mishima Zaibatsu, under the leadership of Kazuya Mishima, has become even more corrupt and powerful than ever before and involved in many illegal operations. These include kidnapping, extortion and smuggling endangered animal species for illegal experiments. Kazuya is backed by the Devil, which inhabits his body and is trying to take over his mind. Meanwhile, animal rights activist and operative Jun Kazama is sent to arrest Kazuya for his experiments.
+		Kazuya's father, Heihachi, whom Kazuya had defeated and thrown off a cliff after the previous tournament, has climbed back up and is training himself, plotting to overthrow Kazuya. In an attempt to rid himself of Heihachi and his enemies once and for all, Kazuya announces the King of Iron Fist Tournament 2, with a large cash prize of one trillion dollars, knowing that Heihachi would appear.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
@@ -497,6 +521,9 @@
 			<genre_type>Fighting</genre_type>
 		</genre>
 		<synopsis>
+		Set fifteen years after the second King of Iron Fist Tournament, the story starts with Jun Kazama, who has been living a quiet life in Yakushima with her young son, Jin, who is the son of Kazuya Mishima.
+		Heihachi Mishima, meanwhile, has established the Tekken Force, an organization dedicated to the protection of the Mishima Zaibatsu. Using the company's influence, Heihachi is responsible for many events that have ultimately led to world peace. However, while on an excavation in Mexico, a squadron of Heihachi's Tekken Force is attacked and vanquished by a mysterious being. The only surviving soldier manages to relay a brief message to Heihachi, describing the perpetrator as an "Ogre" or a "Fighting God". Heihachi and a team of soldiers investigate, with Heihachi managing to catch a glimpse of the culprit. After seeing the Ogre character, Heihachi's long dormant dream of world domination is reawakened. He seeks to capture Ogre to use him for this goal.
+		Four years later, Jin grows into an impressive fighter and master of Mishima-style Karate. On Jin's nineteenth birthday, the King of Iron Fist Tournament 3 is announced, and Jin prepares for his upcoming battle against Ogre.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
@@ -533,7 +560,7 @@
 			<genre_type>Story Rich</genre_type>
 		</genre>
 		<synopsis>
-		Life Is Strange is a five part episodic game that sets out to revolutionize story-based choice and consequence games by allowing the player to rewind time and affect the past, present and future. 
+		Life is Strange is a five part episodic game that sets out to revolutionize story-based choice and consequence games by allowing the player to rewind time and affect the past, present and future. 
 		You are Max, a photography senior who saves her old friend Chloe by discovering she can rewind time. The pair soon find themselves exposed to the darker side of Arcadia Bay as they uncover the disturbing truth behind the sudden disappearance of a fellow student. 
 		Meanwhile, Max begins to have premonitions as she struggles to understand the implications of her power. She must quickly learn that changing the past can sometimes lead to a devastating future.
 		</synopsis>
@@ -567,6 +594,7 @@
 			<genre_type>Fighting</genre_type>
 		</genre>
 		<synopsis>
+		Tekken Tag Tournament, being a non-canon game, features no storyline. It is a compilation of the Tekken series, giving fans the opportunity to play as almost every character in the series up to that point, including many of those that had been missing or disappeared from the main Tekken storyline.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
@@ -581,6 +609,603 @@
 		</mods>
 		<developer>Namco</developer> 
 		<publisher>Namco</publisher>
+	</video_game>
+	<video_game>
+		<id>18</id>
+		<name>Tekken 4</name>
+		<release>2002</release>
+		<systems>
+			<system>PS2</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Fighting</genre_type>
+		</genre>
+		<synopsis>
+		Two years after the King of Iron Fist Tournament 3, Heihachi Mishima and his scientists have captured samples of Ogre's blood and tissue to splice with Heihachi's genome, in order to make him immortal. The experiment fails, since Heihachi lacks the necessary Devil gene. Heihachi searches for his grandson, Jin Kazama, who does possess the Devil gene. Meanwhile Heihachi learns that the body of his son, Kazuya, who also had the Devil gene and whom Heihachi killed by throwing into a volcano twenty years ago, is stored in the labs of the G Corporation. Heihachi sends his Tekken Forces to raid G Corporation and retrieve Kazuya's remains, but the mission fails when the Force is wiped out by none other than Kazuya himself, who has been revived by G Corporation. Meanwhile, Jin is unable to be located. Unknown to Heihachi, Jin went into a self-imposed training exile in Brisbane, Australia to unlearn the Mishima karate style and master traditional karate, loathing anything to do with his bloodline.
+		In an attempt to lure Kazuya and Jin out, Heihachi announces the King of Iron Fist Tournament 4, with the ownership of the Mishima Zaibatsu being the top prize, believing both his son and grandson will come to him for their own vengeful reasons.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+			<number_of_players>Multiplayer</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Namco</developer> 
+		<publisher>Namco</publisher>
+	</video_game>
+	<video_game>
+		<id>19</id>
+		<name>Tekken 5</name>
+		<release>2005</release>
+		<systems>
+			<system>PS2</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Fighting</genre_type>
+		</genre>
+		<synopsis>
+		Mere moments after Jin Kazama's departure from the Hon-Maru dojo, military helicopters approach and begin deploying Jack-4s pods into the building. Heihachi Mishima and his son, Kazuya, are awaken to a squadron bursting through the walls. At first, the two battle the Jacks together as father and son. However, Kazuya eventually betrays Heihachi by throwing him into a group of the androids and escapes. The Jacks hold down Heihachi while one activates its detonator, creating a huge explosion as Hon-Maru goes up in flames. The only witness to the event is Raven, a mysterious agent clad in black, who relays to his command the death of Heihachi and destroys a Jack-4 coming for him while leaving. Heihachi, while managing to survive, is rendered in a coma, and the following day, Heihachi's supposed death is declared all over the world with everyone foreseeing the end of the Mishima Zaibatsu. However, someone else has already taken over the company and business continues as usual. Two months later, the King of Iron Fist Tournament 5 is announced. Meanwhile, Jin is plagued by nightmares triggered by his Devil gene and tries to end it by entering the tournament. His father, Kazuya deduces that the Jack-4s are sent by G Corporation to assassinate him and decides to enter the tournament, so he would be able to take revenge against whoever had sent them.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+			<number_of_players>Multiplayer</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Namco</developer> 
+		<publisher>Namco</publisher>
+	</video_game>
+	<video_game>
+		<id>20</id>
+		<name>Tekken 6</name>
+		<release>2009</release>
+		<systems>
+			<system>PS3</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Fighting</genre_type>
+		</genre>
+		<synopsis>
+		Following Jin Kazama's victory against his great-grandfather, Jinpachi Mishima in the previous tournament, he has risen as the new head of Mishima Zaibatsu. Mirroring his father's previous leadership, Jin uses the company's resources to become a global superpower, severs the national's ties and openly declares war against all nations over the following year. This action plunges the world into an extremely chaotic spiral, with a huge-scale civil war erupting around the globe and even amidst the space colonies orbiting the planet. Meanwhile, his father, Kazuya Mishima has risen as the leader of Mishima Zaibatsu's rival company, G Corporation, following his assassinations of the company's high officials for his attempted murder beforehand. Kazuya views Jin's actions to be a nuisance in his own plans and becomes the only one who can directly oppose Jin's control. He places a bounty on Jin's head for anyone who can capture him. Jin then announces the sixth King of Iron Fist Tournament, sparking many people into entering the tournament to defeat him.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+			<number_of_players>Multiplayer</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Namco</developer> 
+		<publisher>Namco</publisher>
+	</video_game>
+	<video_game>
+		<id>21</id>
+		<name>Tekken Tag Tournament 2</name>
+		<release>2012</release>
+		<systems>
+			<system>PS3</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Fighting</genre_type>
+		</genre>
+		<synopsis>
+		Unlike the original Tekken Tag Tournament, the game's sequel features a storyline. The game provides fans the opportunity to play as almost every character in the series up to that point, including some of those that had apparently been missing in the main Tekken storyline. In the story, Heihachi Mishima has developed a rejuvenation serum, which, as it name suggests, has the ability to regress his appearance and power. After consuming it, Heihachi hosts another King of Iron Fist Tournament, sensing powerful challengers who would come to the tournament.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+			<number_of_players>Multiplayer</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Bandai Namco Games</developer> 
+		<publisher>Bandai Namco Games</publisher>
+	</video_game>
+	<video_game>
+		<id>22</id>
+		<name>Tekken:Dark Resurrection</name>
+		<release>2006</release>
+		<systems>
+			<system>PSP</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Fighting</genre_type>
+		</genre>
+		<synopsis>
+		As an update, the same story as Tekken 5 is featured, with the addition of three new characters. Lili Rochefort seeks to destroy the Mishima Zaibatsu and end her father's financial problems. Sergei Dragunov is a member of Spetsnaz who has been ordered to capture Jin Kazama and Armor King II, the brother of the original Armor King who seeks revenge on Craig Marduk for his brother's death.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+			<number_of_players>Multiplayer</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Namco</developer> 
+		<publisher>Namco</publisher>
+	</video_game>
+	<video_game>
+		<id>23</id>
+		<name>Final Fantasy</name>
+		<release>2007</release>
+		<systems>
+			<system>PSP</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Turn-based</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+		</genre>
+		<synopsis>
+		Shortly before the start of the game, Lich, the fiend of earth, darkens the earth crystal and plagues Melmond as the plains and vegetation decay. At an unspecified point, a sage called Lukahn tells of a prophecy that four Warriors of Light will save the world in a time of darkness.
+		Marilith, the fiend of fire, awakens two centuries early as a response to the Warriors of Light's appearance and darkens the crystal of fire.
+		The four Warriors of Light appear, each carrying a darkened crystal, one of each element... 
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Co.</developer> 
+		<publisher>Square Co.</publisher>
+	</video_game>
+	<video_game>
+		<id>24</id>
+		<name>Final Fantasy II</name>
+		<release>2007</release>
+		<systems>
+			<system>PSP</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Turn-based</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+		</genre>
+		<synopsis>
+		The story begins when Emperor Mateus of Palamecia summons forth monsters from Hell in his quest to dominate the world. Firion, Maria, Guy, and Leon are orphaned when the Empire attacks Fynn and they are cut down by imperial soldiers as they flee. Firion, Maria, and Guy are rescued by forces belonging to the Wild Rose Rebellion led by Princess Hilda and taken to Altair to be revived, but Leon has gone missing. Though they ask to join the rebellion, Hilda refuses due to their youth and inexperience.
+		Despite this, Firion, Guy, and Maria return to Fynn and find Prince Scott on his deathbed. He tells the party of Count Borghen's betrayal and asks them to encourage his brother Gordon, who is afraid to join the rebels. Scott asks them not to tell Hilda his feelings for her and gives them a ring to take back just before he dies. Returning Scott's ring convinces Hilda that Firion's group is strong enough to join the fight.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Co.</developer> 
+		<publisher>Square Co.</publisher>
+	</video_game>
+	<video_game>
+		<id>25</id>
+		<name>Final Fantasy VI</name>
+		<release>2011</release>
+		<systems>
+			<system>PS3</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Turn-based</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+			<genre_type>Story Rich</genre_type>
+		</genre>
+		<synopsis>
+		Set in a fantasy world with a technology level equivalent to that of the Second Industrial Revolution, the game's story focuses on a group of rebels as they seek to overthrow an imperial dictatorship.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Soft</developer> 
+		<publisher>Square Soft</publisher>
+	</video_game>
+	<video_game>
+		<id>26</id>
+		<name>Final Fantasy VII</name>
+		<release>1997</release>
+		<systems>
+			<system>PS</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Turn-based</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+			<genre_type>Story Rich</genre_type>
+		</genre>
+		<synopsis>
+		Final Fantasy VII follows protagonist Cloud Strife, a mercenary who initially joins the eco-terrorist rebel organization AVALANCHE to stop the world-controlling megacorporation Shinra from draining the life of the planet for use as an energy source. As the story progresses, Cloud and his allies become involved in a larger world-threatening conflict, facing off against Sephiroth, the game's main antagonist.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Soft</developer> 
+		<publisher>Square Soft</publisher>
+	</video_game>
+		<video_game>
+		<id>27</id>
+		<name>Final Fantasy VIII</name>
+		<release>1999</release>
+		<systems>
+			<system>PS</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Turn-based</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+			<genre_type>Story Rich</genre_type>
+		</genre>
+		<synopsis>
+		Set on an unnamed fantasy world with science fiction elements, the game follows the story of a group of young mercenaries, led by Squall Leonhart, who are part of an organization named SeeD. Initially traveling to different countries to stop the sorceress Edea, their goal changes to stop a sorceress from the future named Ultimecia from compressing time.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Soft</developer> 
+		<publisher>Square Soft</publisher>
+	</video_game>
+	<video_game>
+		<id>28</id>
+		<name>Final Fantasy IX</name>
+		<release>2000</release>
+		<systems>
+			<system>PS</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Turn-based</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+			<genre_type>Story Rich</genre_type>
+		</genre>
+		<synopsis>
+		Final Fantasy IX‍ centers on a war between nations. Players follow a young thief named Zidane Tribal, who joins with others to defeat Queen Brahne of Alexandria, the one responsible for starting the war. The plot shifts, however, when the characters realise that Brahne is working with an even more threatening person called Kuja.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Soft</developer> 
+		<publisher>Square Soft</publisher>
+	</video_game>
+	<video_game>
+		<id>29</id>
+		<name>Final Fantasy X-2</name>
+		<release>2003</release>
+		<systems>
+			<system>PS2</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Turn-based</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+			<genre_type>Story Rich</genre_type>
+		</genre>
+		<synopsis>
+		The sequel to Final Fantasy X, the game's story follows the character Yuna as she seeks to resolve political conflicts in the fictional world of Spira before it leads to war.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Enix</developer> 
+		<publisher>Square Enix</publisher>
+	</video_game>
+	<video_game>
+		<id>30</id>
+		<name>Final Fantasy XII</name>
+		<release>2006</release>
+		<systems>
+			<system>PS2</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+			<genre_type>Story Rich</genre_type>
+		</genre>
+		<synopsis>
+		The game takes place in the fictional land of Ivalice, where the empires of Archadia and Rozarria are waging an endless war. Dalmasca, a small kingdom, is caught between the warring nations. When Dalmasca is annexed by Archadia, its princess, Ashe, creates a resistance movement. During the struggle, she meets Vaan, a young adventurer who dreams of becoming a sky pirate in command of an airship. They are quickly joined by a band of allies; together, they rally against the tyranny of the Archadian Empire.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Enix</developer> 
+		<publisher>Square Enix</publisher>
+	</video_game>
+	<video_game>
+		<id>31</id>
+		<name>Final Fantasy XIII</name>
+		<release>2009</release>
+		<systems>
+			<system>PS3</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Turn-based</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+			<genre_type>Story Rich</genre_type>
+		</genre>
+		<synopsis>
+		The game takes place in the fictional floating world of Cocoon, whose government, the Sanctum, is ordering a purge of civilians who have supposedly come into contact with Pulse, the much-feared world below. The former soldier Lightning begins her fight against the government in order to save her sister who has been branded as an unwilling servant to a god-like being from Pulse, making her an enemy of Cocoon. Lightning is soon joined by a band of allies, and together the group also become marked by the same Pulse creature. They rally against the Sanctum while trying to discover their assigned task and whether they can avoid being turned into monsters or crystals at the completion.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Enix</developer> 
+		<publisher>Square Enix</publisher>
+	</video_game>
+	<video_game>
+		<id>32</id>
+		<name>Final Fantasy XIII-2</name>
+		<release>2011</release>
+		<systems>
+			<system>PS3</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Turn-based</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+			<genre_type>Story Rich</genre_type>
+		</genre>
+		<synopsis>
+		 Lightning, the protagonist of the original game, has disappeared into an unknown world. Her younger sister Serah Farron, a returning character, and a young man named Noel Kreiss, journey through time in an attempt to find Lightning.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Enix</developer> 
+		<publisher>Square Enix</publisher>
+	</video_game>
+	<video_game>
+		<id>33</id>
+		<name>Crisis Core: Final Fantasy VII</name>
+		<release>2008</release>
+		<systems>
+			<system>PSP</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+			<genre_type>Story Rich</genre_type>
+		</genre>
+		<synopsis>
+		 The game primarily focuses on Zack Fair, a young member of the paramilitary organization SOLDIER, who is assigned to look for the missing SOLDIER Genesis Rhapsodos. As he searches for Genesis, Zack discovers Genesis' origin, Project G, and how it is related to two other high ranking SOLDIERs; Sephiroth and Angeal Hewley. The game's storyline takes the player from the war between the megacorporation Shinra and the people of Wutai to the events in Nibelheim, ending just before the beginning of Final Fantasy VII.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Enix</developer> 
+		<publisher>Square Enix</publisher>
+	</video_game>
+	<video_game>
+		<id>34</id>
+		<name>Final Fantasy Tactics</name>
+		<release>2009</release>
+		<systems>
+			<system>PSP</system>
+		</systems>
+		<maturity_rating>Teen</maturity_rating>
+		<game_rating>
+			<rater>IGN</rater>	
+				<rating> </rating>
+			<rater> </rater>
+		</game_rating>
+		<genre>
+			<genre_type>Role-Playing</genre_type>
+			<genre_type>Fantasy</genre_type>
+			<genre_type>Adventure</genre_type>
+			<genre_type>Story Rich</genre_type>
+			<genre_type>Turne-based</genre_type>
+		</genre>
+		<synopsis>
+		Final Fantasy Tactics is set in a fictional medieval-inspired kingdom called Ivalice. The game's story follows Ramza Beoulve, a highborn cadet who finds himself thrust into the middle of an intricate military conflict known as The Lion War, where two opposing noble factions are coveting the throne of the kingdom. As the story progresses, Ramza and his allies discover a sinister plot behind the war.
+		</synopsis>
+		<players>
+			<number_of_players>Single Player</number_of_players>
+		</players>
+		<related_games>
+		</related_games>
+		<awards>
+		</awards>
+		<mods>
+			<mod_type>none</mod_type>
+		</mods>
+		<developer>Square Enix</developer> 
+		<publisher>Square Enix</publisher>
 	</video_game>
 </video_game_collection>
 			

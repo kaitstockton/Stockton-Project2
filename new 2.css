@@ -1,3 +1,13 @@
+
+table {
+	table-layout: auto;
+	width: 100%;
+}
+
+
+table td.absorbing-column {
+    width: 100%;
+}
 h1{
 	color:#FF0066;
 	font-family:sans-serif;
@@ -9,11 +19,29 @@ th{
 	text-align: left;
 	font-family:sans-serif;
 	padding-top: 5px;
-	padding-left: 10px;
+	padding-left: 5px;
 	padding-right: 10px;
 }
+
+td{	   padding-top: 10px;
+	   padding-left: 5px;
+	   padding-bottom: 10px;
+	   padding-right: 5px;
+	
+}
+
 tr:nth-child(even) {background: white}
 tr:nth-child(odd) {background:#FFC2E0;
 				   color:black; 
-				   font-family:sans-serif;
+				   font-family:serif;
+				   text-align: left;
+				   padding-left: 10px;
+				   
+}
+ul {
+	text-align: left;
+}
+
+li {
+	text-align: left;
 }
