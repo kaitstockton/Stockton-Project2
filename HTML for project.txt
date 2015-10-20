@@ -1,0 +1,10 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>My Video Game Collection</title>
+</head>
+
+<body>
+</body>
+
+</html> 

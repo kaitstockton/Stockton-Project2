@@ -23,6 +23,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	  <th>Players</th>
 	  <th>Related Games</th>
 	  <th>Awards</th>
+	  <th>DLCs</th>
 	  <th>Mods</th>
 	  <th>Developer</th>
 	  <th>Publisher</th>
@@ -45,12 +46,61 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 		</ul>
 		</td>
 	</xsl:for-each>
-		<td><xsl:value-of select="genre"/></td>
+	<xsl:for-each select="genre">
+		<td>
+		<ul>
+	<xsl:for-each select="genre_type">
+		<li><xsl:value-of select="."/></li> 
+	</xsl:for-each>
+		</ul>
+		</td>
+	</xsl:for-each>
 		<td><xsl:value-of select="synopsis"/></td>
-		<td><xsl:value-of select="players"/></td>
-		<td><xsl:value-of select="related_games"/></td>
-		<td><xsl:value-of select="awards"/></td>
-		<td><xsl:value-of select="mods"/></td>
+	<xsl:for-each select="players">
+	<td>
+		<ul>
+	<xsl:for-each select="number_of_players">
+		<li><xsl:value-of select="."/></li> 
+	</xsl:for-each>
+		</ul>
+		</td>
+	</xsl:for-each>
+	<xsl:for-each select="related_games">
+	<td>
+		<ul>
+	<xsl:for-each select="related_game">
+		<li><xsl:value-of select="."/></li> 
+	</xsl:for-each>
+		</ul>
+		</td>
+	</xsl:for-each>	
+	<xsl:for-each select="awards">
+	<td>
+		<ul>
+	<xsl:for-each select="award_type">
+		<li><xsl:value-of select="."/></li> 
+	</xsl:for-each>
+		</ul>
+		</td>
+	</xsl:for-each>	
+	<xsl:for-each select="DLC">
+		<td>
+		<ul>
+	<xsl:for-each select="DLC_type">
+		<li><xsl:value-of select="."/></li> 
+	</xsl:for-each>
+		</ul>
+		</td>
+	</xsl:for-each>		
+	<xsl:for-each select="mods">
+	<td>
+		<ul>
+	<xsl:for-each select="mod_type">
+		<li><xsl:value-of select="."/></li> 
+	</xsl:for-each>
+		</ul>
+		</td>
+	</xsl:for-each>	
 		<td><xsl:value-of select="developer"/></td>
 		<td><xsl:value-of select="publisher"/></td>
 	</tr>

@@ -11,10 +11,8 @@
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
 			<rater>IGN <rating>10/10</rating></rater>
-			<rater>Game FAQs</rater>
-				<rating>4.49/5</rating>
-			<rater>Metacritic</rater>
-				<rating>95/100</rating>
+			<rater>Game FAQs <rating>4.49/5</rating></rater>
+			<rater>Metacritic <rating>95/100</rating></rater>
 		</game_rating>
 		<genre> 
 			<genre_type>Action</genre_type>
@@ -33,11 +31,16 @@
 			<related_game>ZombiU</related_game>
 			<related_game>Dead Rising</related_game>
 			<related_game>Lone Survivor</related_game>
-			<related_game>State of Decay</related_game>
 			<related_game>The Walking Dead</related_game>
 		</related_games>
 		<awards> 
+			<award_type>Destructoid's Best of E3 2012</award_type> 
+			<award_type>GameSpot's Game of the Year 2013 Awards</award_type>
+			<award_type>IGN's Best of 2013</award_type>
 		</awards>
+		<DLC>
+			<DLC_type>Left Behind</DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>None</mod_type>
 		</mods>
@@ -53,8 +56,9 @@
 		</systems>
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<IGN> </IGN>
-			<Game_FAQs> </Game_FAQs>
+			<rater>IGN <rating>9.5/10</rating></rater>
+			<rater>Game FAQs <rating>4.35/5</rating> </rater>
+			<rater>Metacritic <rating>94/100</rating> </rater>
 		</game_rating>
 		<genre> 
 			<genre_type>Action</genre_type>
@@ -72,8 +76,15 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>               </related_games>
-		<awards> 
+		<awards>
+		<award_type>IGN's PC Game of the Year</award_type>
+		<award_type>GameSpot's Readers' Choice Award</award_type>
 		</awards>
+		<DLC>
+			<DLC_type>Dragon Born</DLC_type>
+			<DLC_type>Dawnguard</DLC_type>
+			<DLC_type>Hearthfire</DLC_type>
+		</DLC>
 		<mods>
 			<mod_type> </mod_type>
 			<mod_type> </mod_type>
@@ -90,8 +101,9 @@
 		</systems> 
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<IGN> </IGN>
-			<Game_FAQs> </Game_FAQs>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre> 
 			<genre_type>Episodic</genre_type>
@@ -107,9 +119,14 @@
 		</players>
 		<related_games>               </related_games>
 		<awards> 
+		<award_type>Spike TV's Game of the Year</award_type>
+		<award_type> Spike TV's Best Downloadable Game</award_type>
 		</awards>
+		<DLC>
+			<DLC_type>400 Days</DLC_type>
+		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Telltale Games</developer>
 		<publisher>Telltale Games</publisher>
@@ -123,8 +140,9 @@
 		</systems> 
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<IGN> </IGN>
-			<Game_FAQs> </Game_FAQs>
+			<rater>IGN <rating>8.5/10</rating></rater>
+			<rater>Game FAQs <rating>3.95/5</rating> </rater>
+			<rater>Metacritic <rating>75/100</rating> </rater>
 		</game_rating>
 		<genre> 
 			<genre_type>Open World</genre_type>
@@ -143,8 +161,11 @@
 		<related_games>               </related_games>
 		<awards> 
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Techland</developer>
 		<publisher>Warner Bros.</publisher>
@@ -158,8 +179,9 @@
 		</systems> 
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<IGN> </IGN>
-			<Game_FAQs> </Game_FAQs>
+			<rater>IGN <rating>9.5/10</rating></rater>
+			<rater>Game FAQs <rating>4.38/5</rating> </rater>
+			<rater>Metacritic <rating>92/100</rating> </rater>
 		</game_rating>
 		<genre> 
 			<genre_type>Role-Playing</genre_type>
@@ -176,8 +198,11 @@
 		<related_games>               </related_games>
 		<awards> 
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
-			<mod_type> none </mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Enix</developer>
 		<publisher>Square Enix</publisher>
@@ -191,9 +216,9 @@
 		</systems>
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating>8.5</rating>
-			<rater> </rater>
+			<rater>IGN <rating>8.5/10</rating></rater>
+			<rater>Game FAQs <rating>3.63/5</rating> </rater>
+			<rater>Metacritic <rating>80/100</rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Action</genre_type>
@@ -214,6 +239,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>
 			</mod_type>
@@ -230,9 +258,9 @@
 		</systems>
 		<maturity_rating>E10</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN <rating>9/10</rating></rater>
+			<rater>Game FAQs <rating>4.34/5 </rating> </rater>
+			<rater>Metacritic <rating>93/100</rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Sandbox</genre_type>
@@ -250,6 +278,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type></mod_type>
 		</mods>
@@ -265,9 +296,9 @@
 		</systems>
 		<maturity_rating>E10</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>4X</genre_type>
@@ -285,6 +316,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type></mod_type>
 		</mods>
@@ -300,9 +334,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>City-building</genre_type>
@@ -322,6 +356,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type></mod_type>
 		</mods>
@@ -337,9 +374,9 @@
 		</systems>
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Action</genre_type>
@@ -357,6 +394,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type></mod_type>
 		</mods>
@@ -372,9 +412,9 @@
 		</systems>
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -394,6 +434,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -409,9 +452,9 @@
 		</systems>
 		<maturity_rating>Everyone</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>City-building</genre_type>
@@ -428,6 +471,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -443,9 +489,9 @@
 		</systems>
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Mystery</genre_type>
@@ -464,6 +510,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -479,9 +528,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
@@ -498,6 +547,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -513,9 +565,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
@@ -533,6 +585,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -548,9 +603,9 @@
 		</systems>
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Adventure</genre_type>
@@ -571,6 +626,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type></mod_type>
 		</mods>
@@ -586,9 +644,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
@@ -604,6 +662,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -619,9 +680,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
@@ -638,6 +699,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -653,9 +717,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
@@ -671,6 +735,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -686,9 +753,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
@@ -704,6 +771,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -719,9 +789,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
@@ -737,6 +807,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -752,9 +825,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
@@ -770,6 +843,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -785,9 +861,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -807,6 +883,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -822,9 +901,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -843,6 +922,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -858,9 +940,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -879,6 +961,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -894,9 +979,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -915,6 +1000,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -930,9 +1018,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -951,6 +1039,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -966,9 +1057,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -987,8 +1078,11 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Soft</developer> 
 		<publisher>Square Soft</publisher>
@@ -1002,9 +1096,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1023,6 +1117,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -1038,9 +1135,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1058,6 +1155,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -1073,9 +1173,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1094,6 +1194,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -1109,9 +1212,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1130,6 +1233,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -1145,9 +1251,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1165,6 +1271,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
@@ -1180,9 +1289,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN</rater>	
-				<rating> </rating>
-			<rater> </rater>
+			<rater>IGN<rating> </rating></rater>
+			<rater>Game FAQs<rating> </rating> </rater>
+			<rater>Metacritic<rating> </rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1201,6 +1310,9 @@
 		</related_games>
 		<awards>
 		</awards>
+		<DLC>
+			<DLC_type></DLC_type>
+		</DLC>
 		<mods>
 			<mod_type>none</mod_type>
 		</mods>
