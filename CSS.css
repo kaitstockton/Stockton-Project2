@@ -1,3 +1,6 @@
+html, body {
+    height:100%;
+}
 table {
 	table-layout: auto;
 	width: 100%;
@@ -69,6 +72,10 @@ li {
 	width:2000px;
 }
 
+#container{
+	min-height: 100%;
+}
+
 #section {
     width:2000px;
     float:left;
@@ -79,7 +86,5 @@ li {
     text-align:center;
    padding:5px;	 	 
 }
-nav.li {
-	list-style-type: none;
-  }
+
 
