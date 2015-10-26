@@ -5,7 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="new 2.css"/>
+	<link rel="stylesheet" type="text/css" href="CSS.css"/>
 </head>
 <body>
 <h1>My Video Game Collection</h1>

@@ -75,7 +75,12 @@
 		<players>
 			<number_of_players>Single Player</number_of_players>
 		</players>
-		<related_games>               </related_games>
+		<related_games> 
+			<related_game>The Witcher</related_game>
+			<related_game>Risen</related_game>
+			<related_game>Fallout</related_game>
+			<related_game>Gothic</related_game>		
+		</related_games>
 		<awards>
 		<award_type>IGN's PC Game of the Year</award_type>
 		<award_type>GameSpot's Readers' Choice Award</award_type>
@@ -86,8 +91,8 @@
 			<DLC_type>Hearthfire</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type> </mod_type>
-			<mod_type> </mod_type>
+			<mod_type>SkyUI</mod_type>
+			<mod_type>A Quality World Map and Solstheim Map - With Roads</mod_type>
 		</mods>
 		<developer>Bethesda Game Studios</developer>
 		<publisher>Bethesda Softworks</publisher>
@@ -101,9 +106,9 @@
 		</systems> 
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9.3/10 </rating></rater>
+			<rater>Game FAQs <rating>4.35/5 </rating> </rater>
+			<rater>Metacritic <rating>82/100 </rating> </rater>
 		</game_rating>
 		<genre> 
 			<genre_type>Episodic</genre_type>
@@ -117,7 +122,12 @@
 		<players>
 			<number_of_players>Single Player</number_of_players>
 		</players>
-		<related_games>               </related_games>
+		<related_games>
+			<related_game>The Wolf Among Us</related_game>
+			<related_game>Game of Thrones</related_game>
+			<related_game>Life is Strange</related_game>
+			<related_game>Minecraft:Story Mode</related_game>		
+		</related_games>
 		<awards> 
 		<award_type>Spike TV's Game of the Year</award_type>
 		<award_type> Spike TV's Best Downloadable Game</award_type>
@@ -158,11 +168,17 @@
 			<number_of_players>Single Player</number_of_players>
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
-		<related_games>               </related_games>
+		<related_games>
+			<related_game>Dead Island 2</related_game>
+			<related_game>7 Days to Die</related_game>
+			<related_game>Left 4 Dead</related_game>
+			<related_game>State of Decay</related_game>		
+		</related_games>
 		<awards> 
+			<award_type>Best of E3 Winner</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>Be the Zombie</DLC_type>
 		</DLC>
 		<mods>
 			<mod_type>None</mod_type>
@@ -195,11 +211,17 @@
 		<players>
 			<number_of_players>Single Player</number_of_players>
 		</players>
-		<related_games>               </related_games>
+		<related_games>
+			<related_game>The Last Remnant</related_game>
+			<related_game>Final Fantasy VII</related_game>
+			<related_game>Final Fantasy VIII</related_game>
+		</related_games>
 		<awards> 
+			<award_type>Famitsu‍'​s and Dengeki‍'​s "most tear-inducing games of all time"</award_type>
+			<award_type>Placed 5th on IGN's "Top 25 PS2 Games of All Time"</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
 			<mod_type>None</mod_type>
@@ -236,15 +258,19 @@
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Grand Theft Auto V</related_game>
+			<related_game>HITMAN</related_game>
+			<related_game>APB Reloaded</related_game>
 		</related_games>
 		<awards>
+			<award_type>Special Commendation for Innovation</award_type>
+			<award_type>Special Commendation for Graphics</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>Bad Blood</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>
-			</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Ubisoft Montreal</developer> 
 		<publisher>Ubisoft</publisher>
@@ -275,14 +301,20 @@
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Cube World</related_game>
+			<related_game>Don't Starve</related_game>
+			<related_game>7 Days to Die</related_game>
+			<related_game>Space Engineers</related_game>
 		</related_games>
 		<awards>
+			<award_type>Best Downloadable Game of 2010</award_type>
+			<award_type>2010 Indie of the Year Award</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type></mod_type>
+			<mod_type>Industrial Mod</mod_type>
 		</mods>
 		<developer>Mojang</developer> 
 		<publisher>Mojang</publisher>
@@ -290,15 +322,15 @@
 	<video_game>
 		<id>8</id>
 		<name>Sid Meier's Civilization V</name>
-		<release>2014</release>
+		<release>2010</release>
 		<systems>
 			<system>PC</system>
 		</systems>
 		<maturity_rating>E10</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9/10</rating></rater>
+			<rater>Game FAQs <rating>4.2/5</rating> </rater>
+			<rater>Metacritic <rating>90/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>4X</genre_type>
@@ -313,14 +345,20 @@
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Age of Wonders</related_game>
+			<related_game>Endless Legend</related_game>
+			<related_game>Total War</related_game>
 		</related_games>
 		<awards>
+			<award_type>BAFTA Games Award for Strategy - 2011</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>Brave New World</DLC_type>
+			<DLC_type>Gods and Kings</DLC_type>
+			<DLC_type>Scrambled Continents Map Pack</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type></mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Firaxis Games</developer> 
 		<publisher>2K Games</publisher>
@@ -334,9 +372,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>8.5/10</rating></rater>
+			<rater>Game FAQs <rating>3.85/5</rating></rater>
+			<rater>Metacritic <rating>83/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>City-building</genre_type>
@@ -353,14 +391,18 @@
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Tropico</related_game>
+			<related_game>Cities:Skylines</related_game>
+			<related_game>SimCity</related_game>
 		</related_games>
 		<awards>
+			<award_type>None</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type></mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Ubisoft Blue Byte</developer> 
 		<publisher>Ubisoft</publisher>
@@ -374,9 +416,9 @@
 		</systems>
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9/10</rating></rater>
+			<rater>Game FAQs <rating>4.08/5</rating></rater>
+			<rater>Metacritic <rating>89/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Action</genre_type>
@@ -391,14 +433,18 @@
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Killing Floor</related_game>
+			<related_game>Payday 2</related_game>
+			<related_game>Dead Island</related_game>
 		</related_games>
 		<awards>
+			<award_type>BAFTA Games Award for Multiplayer - 2010</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type></mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Valve Corporation</developer> 
 		<publisher>Valve Corporation</publisher>
@@ -412,9 +458,9 @@
 		</systems>
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9/10</rating></rater>
+			<rater>Game FAQs <rating>4.28/5</rating></rater>
+			<rater>Metacritic <rating>85/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -423,7 +469,6 @@
 			<genre_type>Turn-based</genre_type>
 		</genre>
 		<synopsis>
-		From the perilous battlefields of the fourth-grade playground, a young hero will rise, destined to be South Park’s savior. From the creators of South Park, Trey Parker and Matt Stone, comes an epic quest to become… cool. Introducing South Park: The Stick of Truth. 
 		For a thousand years, the battle has been waged. The sole reason humans and elves are locked in a neverending war: The Stick of Truth. But the tides of war are soon to change as word of a new kid spreads throughout the land, his coming fortold by the stars. As the moving vans of prophecy drive away, your adventure begins. 
 		Arm yourself with weapons of legend to defeat underpants gnomes, hippies and other forces of evil. Discover the lost Stick of Truth and earn your place at the side of Stan, Kyle, Cartman and Kenny as their new friend. Succeed, and you shall be South Park’s savior, cementing your social status in South Park Elementary. Fail, and you will forever be known… as a loser.
 		</synopsis>
@@ -431,14 +476,18 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Bully</related_game>
+			<related_game>Costume Quest</related_game>
+			<related_game>Epic Battle Fantasy</related_game>
 		</related_games>
 		<awards>
+			<award_type>IGN's “Funniest Game of the Year”</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>South Park Digital Studios</developer> 
 		<publisher>Ubisoft</publisher>
@@ -452,9 +501,9 @@
 		</systems>
 		<maturity_rating>Everyone</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>8.5/10</rating></rater>
+			<rater>Game FAQs <rating>4.21/5</rating></rater>
+			<rater>Metacritic <rating>86/100</rating> </rater>
 		</game_rating>
 		<genre>
 			<genre_type>City-building</genre_type>
@@ -468,14 +517,18 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Tropico</related_game>
+			<related_game>Prison Architect</related_game>
+			<related_game>Anno 2070</related_game>
 		</related_games>
 		<awards>
+			<award_type>Unity's 2015 Golden Cube Award</award_type> 
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Colossal Order</developer> 
 		<publisher>Paradox Interactive</publisher>
@@ -489,9 +542,9 @@
 		</systems>
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9.2/10</rating></rater>
+			<rater>Game FAQs <rating>4.14/5</rating></rater>
+			<rater>Metacritic <rating>80/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Mystery</genre_type>
@@ -507,14 +560,20 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>L.A. Noire</related_game>
+			<related_game>The Walking Dead</related_game>
+			<related_game>Tales from the Borderlands</related_game>
 		</related_games>
 		<awards>
+			<award_type>IGN's 2014 Best Story in a Game</award_type>
+			<award_type>IGN's 2014 Best Adventure in a Game</award_type>
+			<award_type>IGN's 2014 Best Performance in a Game</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Telltale</developer> 
 		<publisher>Telltale</publisher>
@@ -528,30 +587,35 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9/10</rating></rater>
+			<rater>Game FAQs <rating>3.94/5</rating></rater>
+			<rater>Metacritic <rating>89/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
 		</genre>
 		<synopsis>
-		Two years after the events of the King of Iron Fist Tournament, the Mishima Zaibatsu, under the leadership of Kazuya Mishima, has become even more corrupt and powerful than ever before and involved in many illegal operations. These include kidnapping, extortion and smuggling endangered animal species for illegal experiments. Kazuya is backed by the Devil, which inhabits his body and is trying to take over his mind. Meanwhile, animal rights activist and operative Jun Kazama is sent to arrest Kazuya for his experiments.
-		Kazuya's father, Heihachi, whom Kazuya had defeated and thrown off a cliff after the previous tournament, has climbed back up and is training himself, plotting to overthrow Kazuya. In an attempt to rid himself of Heihachi and his enemies once and for all, Kazuya announces the King of Iron Fist Tournament 2, with a large cash prize of one trillion dollars, knowing that Heihachi would appear.
+		Two years after the events of the King of Iron Fist Tournament, the Mishima Zaibatsu, under the leadership of Kazuya Mishima, has become even more corrupt and powerful than ever before and involved in many illegal operations. Kazuya is backed by the Devil, which inhabits his body and is trying to take over his mind. 
+		Kazuya's father, Heihachi, whom Kazuya had defeated and thrown off a cliff after the previous tournament, has climbed back up and is training himself, plotting to overthrow Kazuya. In an attempt to rid himself of Heihachi and his enemies once and for all, Kazuya announces the King of Iron Fist Tournament 2, knowing that Heihachi would appear.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Street Fighter</related_game>
+			<related_game>Soulcalibur</related_game>
+			<related_game>Tekken 3</related_game>
 		</related_games>
 		<awards>
+			<award_type>Electronic Gaming Monthly's "Best Arcade Game" of 1995</award_type>
+			<award_type>3rd on "Top 25 PlayStation Games of All Time"</award_type> 
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Namco</developer> 
 		<publisher>Namco</publisher>
@@ -565,16 +629,16 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9.3/10</rating></rater>
+			<rater>Game FAQs <rating>4.22/5</rating></rater>
+			<rater>Metacritic <rating>96/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
 		</genre>
 		<synopsis>
 		Set fifteen years after the second King of Iron Fist Tournament, the story starts with Jun Kazama, who has been living a quiet life in Yakushima with her young son, Jin, who is the son of Kazuya Mishima.
-		Heihachi Mishima, meanwhile, has established the Tekken Force, an organization dedicated to the protection of the Mishima Zaibatsu. Using the company's influence, Heihachi is responsible for many events that have ultimately led to world peace. However, while on an excavation in Mexico, a squadron of Heihachi's Tekken Force is attacked and vanquished by a mysterious being. The only surviving soldier manages to relay a brief message to Heihachi, describing the perpetrator as an "Ogre" or a "Fighting God". Heihachi and a team of soldiers investigate, with Heihachi managing to catch a glimpse of the culprit. After seeing the Ogre character, Heihachi's long dormant dream of world domination is reawakened. He seeks to capture Ogre to use him for this goal.
+		Heihachi Mishima, meanwhile, has established the Tekken Force, an organization dedicated to the protection of the Mishima Zaibatsu. While on an excavation in Mexico, a squadron of Heihachi's Tekken Force is attacked and vanquished by a mysterious being. Heihachi and a team of soldiers investigate. After seeing an Ogre character, Heihachi's long dormant dream of world domination is reawakened. He seeks to capture Ogre to use him for this goal.
 		Four years later, Jin grows into an impressive fighter and master of Mishima-style Karate. On Jin's nineteenth birthday, the King of Iron Fist Tournament 3 is announced, and Jin prepares for his upcoming battle against Ogre.
 		</synopsis>
 		<players>
@@ -582,14 +646,19 @@
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Soul Calibur</related_game>
+			<related_game>Tekken 4</related_game>
+			<related_game>Mortal Kombat</related_game>
 		</related_games>
 		<awards>
+			<award_type>#10 on PSM‍ '​s "Final PlayStation Top 10"</award_type>
+			<award_type>5th Best Selling PlayStation Game of all Time</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Namco</developer> 
 		<publisher>Namco</publisher>
@@ -603,9 +672,9 @@
 		</systems>
 		<maturity_rating>Mature</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9.2/10</rating></rater>
+			<rater>Game FAQs <rating>4.29/5</rating></rater>
+			<rater>Metacritic <rating>81/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Adventure</genre_type>
@@ -615,22 +684,26 @@
 			<genre_type>Story Rich</genre_type>
 		</genre>
 		<synopsis>
-		Life is Strange is a five part episodic game that sets out to revolutionize story-based choice and consequence games by allowing the player to rewind time and affect the past, present and future. 
+		Life is Strange sets out to revolutionize story-based choice and consequence games by allowing the player to rewind time and affect the past, present and future. 
 		You are Max, a photography senior who saves her old friend Chloe by discovering she can rewind time. The pair soon find themselves exposed to the darker side of Arcadia Bay as they uncover the disturbing truth behind the sudden disappearance of a fellow student. 
-		Meanwhile, Max begins to have premonitions as she struggles to understand the implications of her power. She must quickly learn that changing the past can sometimes lead to a devastating future.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Dreamfall Chapters</related_game>
+			<related_game>Tales from the Borderlands</related_game>
+			<related_game>80 Days</related_game>
 		</related_games>
 		<awards>
+			<award_type>Develop Industry Excellence's Use of Narrative Award</award_type>
+			<award_type>Develop Industry Excellence's New Game IP Award</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type></mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Dontnod Entertainment</developer> 
 		<publisher>Square Enix</publisher>
@@ -644,9 +717,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>8.8/10</rating></rater>
+			<rater>Game FAQs <rating>4.05/5</rating></rater>
+			<rater>Metacritic <rating>85/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
@@ -659,14 +732,18 @@
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Tekken Tag Tournament 2</related_game>
+			<related_game>Street Fighter</related_game>
+			<related_game>Tekken 2</related_game>
 		</related_games>
 		<awards>
+			<award_type>None</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Namco</developer> 
 		<publisher>Namco</publisher>
@@ -680,30 +757,34 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9/10</rating></rater>
+			<rater>Game FAQs <rating>3.72/5</rating></rater>
+			<rater>Metacritic <rating>79/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
 		</genre>
 		<synopsis>
-		Two years after the King of Iron Fist Tournament 3, Heihachi Mishima and his scientists have captured samples of Ogre's blood and tissue to splice with Heihachi's genome, in order to make him immortal. The experiment fails, since Heihachi lacks the necessary Devil gene. Heihachi searches for his grandson, Jin Kazama, who does possess the Devil gene. Meanwhile Heihachi learns that the body of his son, Kazuya, who also had the Devil gene and whom Heihachi killed by throwing into a volcano twenty years ago, is stored in the labs of the G Corporation. Heihachi sends his Tekken Forces to raid G Corporation and retrieve Kazuya's remains, but the mission fails when the Force is wiped out by none other than Kazuya himself, who has been revived by G Corporation. Meanwhile, Jin is unable to be located. Unknown to Heihachi, Jin went into a self-imposed training exile in Brisbane, Australia to unlearn the Mishima karate style and master traditional karate, loathing anything to do with his bloodline.
-		In an attempt to lure Kazuya and Jin out, Heihachi announces the King of Iron Fist Tournament 4, with the ownership of the Mishima Zaibatsu being the top prize, believing both his son and grandson will come to him for their own vengeful reasons.
+		Two years after the King of Iron Fist Tournament 3, Heihachi Mishima and his scientists have captured samples of Ogre's blood and tissue to splice with Heihachi's genome, in order to make him immortal. The experiment fails, since Heihachi lacks the necessary Devil gene. Heihachi searches for his grandson, Jin Kazama, who does possess the Devil gene. Meanwhile Heihachi learns that the body of his son, Kazuya, who also had the Devil gene and whom Heihachi killed by throwing into a volcano twenty years ago, is stored in the labs of the G Corporation. Heihachi sends his Tekken Forces to raid G Corporation and retrieve Kazuya's remains, but the mission fails when the Force is wiped out by none other than Kazuya himself, who has been revived by G Corporation. Meanwhile, Jin is unable to be located. 
+		In an attempt to lure Kazuya and Jin out, Heihachi announces the King of Iron Fist Tournament 4, with the ownership of the Mishima Zaibatsu being the top prize.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Tekken 5</related_game>
+			<related_game>Tekken 6</related_game>
+			<related_game>Virtua Fighter</related_game>
 		</related_games>
 		<awards>
+			<award_type>E3 2002 Game Critics Awards's "Best Fighting Game"</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Namco</developer> 
 		<publisher>Namco</publisher>
@@ -717,29 +798,34 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9.3/10</rating></rater>
+			<rater>Game FAQs <rating>4.13/5</rating></rater>
+			<rater>Metacritic <rating>88/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
 		</genre>
 		<synopsis>
-		Mere moments after Jin Kazama's departure from the Hon-Maru dojo, military helicopters approach and begin deploying Jack-4s pods into the building. Heihachi Mishima and his son, Kazuya, are awaken to a squadron bursting through the walls. At first, the two battle the Jacks together as father and son. However, Kazuya eventually betrays Heihachi by throwing him into a group of the androids and escapes. The Jacks hold down Heihachi while one activates its detonator, creating a huge explosion as Hon-Maru goes up in flames. The only witness to the event is Raven, a mysterious agent clad in black, who relays to his command the death of Heihachi and destroys a Jack-4 coming for him while leaving. Heihachi, while managing to survive, is rendered in a coma, and the following day, Heihachi's supposed death is declared all over the world with everyone foreseeing the end of the Mishima Zaibatsu. However, someone else has already taken over the company and business continues as usual. Two months later, the King of Iron Fist Tournament 5 is announced. Meanwhile, Jin is plagued by nightmares triggered by his Devil gene and tries to end it by entering the tournament. His father, Kazuya deduces that the Jack-4s are sent by G Corporation to assassinate him and decides to enter the tournament, so he would be able to take revenge against whoever had sent them.
+		Mere moments after Jin Kazama's departure from the Hon-Maru dojo, military helicopters approach and begin deploying Jack-4s pods into the building. Heihachi Mishima and his son, Kazuya, are awaken to a squadron bursting through the walls. Kazuya eventually betrays Heihachi by throwing him into a group of the androids and escapes. The Jacks hold down Heihachi while one activates its detonator, creating a huge explosion as Hon-Maru goes up in flames.Heihachi, while managing to survive, is rendered in a coma, and the following day, Heihachi's supposed death is declared all over the world. Someone else has already taken over the company and business continues as usual. Two months later, the King of Iron Fist Tournament 5 is announced.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
-		</related_games>
+			<related_game>Tekken 6</related_game>
+			<related_game>Tekken Tag Tournament 2</related_game>
+			<related_game>Street Fight X Tekken</related_game>
+		 		</related_games>
 		<awards>
+			<award_type>GameSpot's "Best Fighting Game of 2005"</award_type>
+			<award_type>IGN's "Best PlayStation 2 Fighting Game"</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Namco</developer> 
 		<publisher>Namco</publisher>
@@ -753,29 +839,33 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>8.8/10</rating></rater>
+			<rater>Game FAQs <rating>3.95/5</rating></rater>
+			<rater>Metacritic <rating>79/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
 		</genre>
 		<synopsis>
-		Following Jin Kazama's victory against his great-grandfather, Jinpachi Mishima in the previous tournament, he has risen as the new head of Mishima Zaibatsu. Mirroring his father's previous leadership, Jin uses the company's resources to become a global superpower, severs the national's ties and openly declares war against all nations over the following year. This action plunges the world into an extremely chaotic spiral, with a huge-scale civil war erupting around the globe and even amidst the space colonies orbiting the planet. Meanwhile, his father, Kazuya Mishima has risen as the leader of Mishima Zaibatsu's rival company, G Corporation, following his assassinations of the company's high officials for his attempted murder beforehand. Kazuya views Jin's actions to be a nuisance in his own plans and becomes the only one who can directly oppose Jin's control. He places a bounty on Jin's head for anyone who can capture him. Jin then announces the sixth King of Iron Fist Tournament, sparking many people into entering the tournament to defeat him.
+		Following Jin Kazama's victory against his great-grandfather, Jinpachi Mishima in the previous tournament, he has risen as the new head of Mishima Zaibatsu. Mirroring his father's previous leadership, Jin uses the company's resources to become a global superpower, severs the national's ties and openly declares war against all nations over the following year. This action plunges the world into an extremely chaotic spiral. Meanwhile, his father, Kazuya Mishima has risen as the leader of G Corporation. Kazuya views Jin's actions to be a nuisance in his own plans and becomes the only one who can directly oppose Jin's control. He places a bounty on Jin's head for anyone who can capture him. Jin then announces the sixth King of Iron Fist Tournament.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Tekken Tag Tournament 2</related_game>
+			<related_game>Street Fight X Tekken</related_game>
+			<related_game>Soul Calibur</related_game>
 		</related_games>
 		<awards>
+			<award_type>None</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Namco</developer> 
 		<publisher>Namco</publisher>
@@ -789,9 +879,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>7.5/10</rating></rater>
+			<rater>Game FAQs <rating>4.23/5</rating></rater>
+			<rater>Metacritic <rating>82/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
@@ -804,14 +894,22 @@
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Tekken</related_game>
+			<related_game>Street Fight X Tekken</related_game>
+			<related_game>Soul Calibur</related_game>
 		</related_games>
 		<awards>
+			<award_type>GameSpot's "Fighting Game of the Year"</award_type>
+			<award_type>Digital Trends's "Best Fighting Game"</award_type>
+			<award_type>Game Informer's "Best Fighting"</award_type>
+			<award_type>Machinima.com's "Best Fighting Game of E3 2012"</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>Ending Movies</DLC_type>
+			<DLC_type>Tekken Tunes</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Bandai Namco Games</developer> 
 		<publisher>Bandai Namco Games</publisher>
@@ -825,9 +923,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9.2/10</rating></rater>
+			<rater>Game FAQs <rating>4.22/5</rating></rater>
+			<rater>Metacritic <rating>88/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Fighting</genre_type>
@@ -840,14 +938,20 @@
 			<number_of_players>Multiplayer</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Tekken 5</related_game>
+			<related_game>Street Fight X Tekken</related_game>
+			<related_game>Virtua Fighter</related_game>
 		</related_games>
 		<awards>
+			<award_type>IGN's "Best PSP Fighting Game oof 2006"</award_type>
+			<award_type>IGN's "Best Graphics Technology on PSP in 2006"</award_type>
+			<award_type>IGN's "Best Fighting Game of 2006"</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Namco</developer> 
 		<publisher>Namco</publisher>
@@ -861,9 +965,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>6.5/10</rating></rater>
+			<rater>Game FAQs <rating>3.95</rating></rater>
+			<rater>Metacritic <rating>67/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -880,14 +984,18 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Final Fantasy II</related_game>
+			<related_game>Final Fantasy III</related_game>
+			<related_game>The Last Remnant</related_game>
 		</related_games>
 		<awards>
+			<award_type>None</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Co.</developer> 
 		<publisher>Square Co.</publisher>
@@ -912,21 +1020,25 @@
 			<genre_type>Adventure</genre_type>
 		</genre>
 		<synopsis>
-		The story begins when Emperor Mateus of Palamecia summons forth monsters from Hell in his quest to dominate the world. Firion, Maria, Guy, and Leon are orphaned when the Empire attacks Fynn and they are cut down by imperial soldiers as they flee. Firion, Maria, and Guy are rescued by forces belonging to the Wild Rose Rebellion led by Princess Hilda and taken to Altair to be revived, but Leon has gone missing. Though they ask to join the rebellion, Hilda refuses due to their youth and inexperience.
-		Despite this, Firion, Guy, and Maria return to Fynn and find Prince Scott on his deathbed. He tells the party of Count Borghen's betrayal and asks them to encourage his brother Gordon, who is afraid to join the rebels. Scott asks them not to tell Hilda his feelings for her and gives them a ring to take back just before he dies. Returning Scott's ring convinces Hilda that Firion's group is strong enough to join the fight.
+		Emperor Mateus of Palamecia summons forth monsters from Hell in his quest to dominate the world. Firion, Maria, Guy, and Leon are orphaned when the Empire attacks Fynn, and they are cut down by imperial soldiers as they flee. Firion, Maria, and Guy are rescued by forces belonging to the Wild Rose Rebellion led by Princess Hilda and taken to Altair to be revived, but Leon has gone missing. Though they ask to join the rebellion, Hilda refuses due to their youth and inexperience.
+		Despite this, Firion, Guy, and Maria return to Fynn and find Prince Scott on his deathbed. He tells the party of Count Borghen's betrayal and asks them to encourage his brother Gordon, who is afraid to join the rebels. Scott gives them a ring to take back just before he dies. Returning Scott's ring convinces Hilda that Firion's group is strong enough to join the fight.
 		</synopsis>
 		<players>
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Final Fantasy III</related_game>
+			<related_game>Final Fantasy IV</related_game>
+			<related_game>The Legend of Heroes</related_game>
 		</related_games>
 		<awards>
+			<award_type>None</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Co.</developer> 
 		<publisher>Square Co.</publisher>
@@ -940,9 +1052,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9/10</rating></rater>
+			<rater>Game FAQs <rating>4.33/5</rating></rater>
+			<rater>Metacritic <rating>N/A</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -958,14 +1070,19 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Final Fantasy</related_game>
+			<related_game>Final Fantasy II</related_game>
+			<related_game>Final Fantasy VII</related_game>
 		</related_games>
 		<awards>
+			<award_type>Electronic Gaming Monthly's "Best Role-Play Game"</award_type>
+			<award_type>Electronic Gaming Monthly's "Game of the Month"</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Soft</developer> 
 		<publisher>Square Soft</publisher>
@@ -979,9 +1096,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9.5/10</rating></rater>
+			<rater>Game FAQs <rating>4.48/5</rating></rater>
+			<rater>Metacritic <rating>92/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -997,14 +1114,21 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>The Last Remnant</related_game>
+			<related_game>Tales of Zestiria</related_game>
+			<related_game>Final Fantasy VIII</related_game>
 		</related_games>
 		<awards>
+			<award_type>Dengeki PlayStation's "Best Story" </award_type>
+			<award_type>Dengeki PlayStation's "Best RPG"</award_type>
+			<award_type>Dengeki PlayStation's "Best Overall Game"</award_type>
+			<award_type>3rd in Stuff‍'​s "100 Greatest Games"</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Soft</developer> 
 		<publisher>Square Soft</publisher>
@@ -1018,9 +1142,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9/10</rating></rater>
+			<rater>Game FAQs <rating>4.17/5</rating></rater>
+			<rater>Metacritic <rating>90/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1036,14 +1160,21 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Final Fantasy VII</related_game>
+			<related_game>Final Fantasy IX</related_game>
+			<related_game>Grandia</related_game>
 		</related_games>
 		<awards>
+			<award_type>Electronic Gaming Monthly's "Game of the Year"</award_type>
+			<award_type>IGN's "Best RPG of E3 1999"</award_type>
+			<award_type>Computer Gaming World's "20th Best Game of 2000"</award_type>
+			<award_type>IGN's 7th Best PlayStation Game</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Soft</developer> 
 		<publisher>Square Soft</publisher>
@@ -1057,9 +1188,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9.2/10</rating></rater>
+			<rater>Game FAQs<rating>4.4/5</rating></rater>
+			<rater>Metacritic <rating>94/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1075,11 +1206,17 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Chrono Cross</related_game>
+			<related_game>Final Fantasy VIII</related_game>
+			<related_game>Xenogears</related_game>
 		</related_games>
 		<awards>
+			<award_type>4th Annual Interactive Achievement Awards's "Console RPG of the Year"</award_type>
+			<award_type>6th Annual Golden Satellite Awards's "Best Interactive Product/Video Game"</award_type>
+			<award_type>4th Annual Interactive Achievement Awards's "Outstanding Achievement in Art Direction"</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
 			<mod_type>None</mod_type>
@@ -1096,9 +1233,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9.5/10</rating></rater>
+			<rater>Game FAQs <rating>3.65/5</rating></rater>
+			<rater>Metacritic <rating>85/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1114,14 +1251,18 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Dragon Quest</related_game>
+			<related_game>Romancing Saga</related_game>
+			<related_game>Unlimited Saga</related_game>
 		</related_games>
 		<awards>
+			<award_type>7th CESA Game Awards's Award of Excellence</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Enix</developer> 
 		<publisher>Square Enix</publisher>
@@ -1135,9 +1276,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>9.5/10</rating></rater>
+			<rater>Game FAQs <rating>4.06</rating></rater>
+			<rater>Metacritic <rating>92/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1152,14 +1293,20 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Dragon Quest</related_game>
+			<related_game>Grandia</related_game>
+			<related_game>Final Fantasy X-2</related_game>
 		</related_games>
 		<awards>
+			<award_type>Edge Awards's Best Game - 2006</award_type>
+			<award_type>Famitsu Awards's Game of the Year Award - 2006</award_type>
+			<award_type>IGN Awards's Best PS2 Game - 2006</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Enix</developer> 
 		<publisher>Square Enix</publisher>
@@ -1173,9 +1320,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>8.9/10</rating></rater>
+			<rater>Game FAQs <rating>3.75/5</rating></rater>
+			<rater>Metacritic <rating>83/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1191,14 +1338,20 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Final Fantasy XIII-2</related_game>
+			<related_game>Lightning Returns:Final Fantasy XIII</related_game>
+			<related_game>Star Ocean</related_game>
 		</related_games>
 		<awards>
+			<award_type>Golden Joystick Award for Soundtrack of the Year</award_type>
+			<award_type>Japan Game Awards's 2010 Game Designers Award</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>Final Fantasy Legends DLC</DLC_type>
+			<DLC_type>The Sohei Savior Pack</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Enix</developer> 
 		<publisher>Square Enix</publisher>
@@ -1212,9 +1365,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>8/10</rating></rater>
+			<rater>Game FAQs <rating>3.86</rating></rater>
+			<rater>Metacritic <rating>79/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1230,14 +1383,18 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Lightning Returns: Final Fantasy XIII</related_game>
+			<related_game>Star Ocean</related_game>
+			<related_game>Final Fantasy XIII</related_game>
 		</related_games>
 		<awards>
+			<award_type>Japan Game Awards's 2012 Award of Excellence</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>DLC Bundle Pack</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Enix</developer> 
 		<publisher>Square Enix</publisher>
@@ -1251,9 +1408,9 @@
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>8.5/10</rating></rater>
+			<rater>Game FAQs <rating>4.24/5</rating></rater>
+			<rater>Metacritic <rating>83/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1268,30 +1425,34 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Final Fantasy VII</related_game>
+			<related_game>Kingdom Hearts:Birth by Sleep</related_game>
+			<related_game>Lord of Arcana</related_game>
 		</related_games>
 		<awards>
+			<award_type>GameSpot Award for "Best PSP Game"</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Enix</developer> 
 		<publisher>Square Enix</publisher>
 	</video_game>
 	<video_game>
 		<id>34</id>
-		<name>Final Fantasy Tactics</name>
-		<release>2009</release>
+		<name>Final Fantasy Tactics:The War of the Lions</name>
+		<release>2007</release>
 		<systems>
 			<system>PSP</system>
 		</systems>
 		<maturity_rating>Teen</maturity_rating>
 		<game_rating>
-			<rater>IGN<rating> </rating></rater>
-			<rater>Game FAQs<rating> </rating> </rater>
-			<rater>Metacritic<rating> </rating> </rater>
+			<rater>IGN <rating>8.5/10</rating></rater>
+			<rater>Game FAQs <rating>4.32/5</rating></rater>
+			<rater>Metacritic <rating>88/100</rating></rater>
 		</game_rating>
 		<genre>
 			<genre_type>Role-Playing</genre_type>
@@ -1307,14 +1468,18 @@
 			<number_of_players>Single Player</number_of_players>
 		</players>
 		<related_games>
+			<related_game>Final Fantasy VII</related_game>
+			<related_game>Kingdom Hearts:Birth by Sleep</related_game>
+			<related_game>Lord of Arcana</related_game>
 		</related_games>
 		<awards>
+			<award_type>None</award_type>
 		</awards>
 		<DLC>
-			<DLC_type></DLC_type>
+			<DLC_type>None</DLC_type>
 		</DLC>
 		<mods>
-			<mod_type>none</mod_type>
+			<mod_type>None</mod_type>
 		</mods>
 		<developer>Square Enix</developer> 
 		<publisher>Square Enix</publisher>
